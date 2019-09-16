@@ -9,6 +9,7 @@ The folder structure of the project is as follows;
   - css/
   - design/
   - js/
+  - controller.php
   - index.html
 
 To test this project in a development environment, you'll need to run it on a web server with PHP5 installed, for ease of use we recommend XAMPP or WAMP which come shipped with Apache web server and other useful add-ons. Instructions on how to download and install and use them can be found on their websites;
